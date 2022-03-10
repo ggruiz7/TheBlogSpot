@@ -5,6 +5,15 @@
   font-family: "Quicksand";
   color: #333;
 }
+
+/* App */
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* Navbar */
 .navbar {
   padding: 20px;
   display: flex;
@@ -27,12 +36,8 @@
 .navbar a:hover {
   color: #f1356d;
 }
-.content {
-  max-width: 600px;
-  margin: 40px auto;
-  padding: 20px;
-}
 
+/* BlogList*/
 .blog-preview {
   padding: 10px 16px;
   margin: 20px 0;
