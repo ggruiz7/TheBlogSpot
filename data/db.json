@@ -17,6 +17,18 @@
       "body": "hello",
       "author": "gg",
       "id": 3
+    },
+    {
+      "title": "another one",
+      "body": "yo",
+      "author": "nat",
+      "id": 4
+    },
+    {
+      "title": "sit",
+      "body": "down",
+      "author": "jon",
+      "id": 5
     }
   ]
 }
