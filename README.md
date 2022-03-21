@@ -8,7 +8,7 @@ User story - As a creative person and a blogger, I want an open forum where I ca
 Use "npx create-react-app blog, cd blog, npm start" to install React
 
 # Screenshot
-![image](https://github.com/rjblake88/theblogspot/blob/main/screenshot(34).png)
+![image](https://github.com/ggruiz7/theblogspot/blob/main/screenshot(34).png)
 
 # Contributing
 Create pull request for large changes ie. branch merges or pushing to main branch
