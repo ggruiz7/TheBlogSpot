@@ -10,3 +10,6 @@ Use "npx create-react-app blog, cd blog, npm start" to install React
 
 # Contributing
 Create pull request for large changes ie. branch merges or pushing to main branch
+
+# Deployed
+https://blog-spot.herokuapp.com/
