@@ -6,7 +6,7 @@ User story - As a creative person and a blogger, I want an open forum where I ca
 ***This app is currently incomplete, to run: clone development branch into local repo and run "npm i" to install, "npx json-server --watch data/db.json --port 8000" to run json server, and then "npm run start".
 
 # Screenshot
-![image](https://github.com/ggruiz7/theblogspot/blob/main/screenshot (34).png)
+![image](https://github.com/ggruiz7/TheBlogSpot/blob/main/Screenshot%20(34).png)
 
 # Contributing
 Create pull request for large changes ie. branch merges or pushing to main branch
