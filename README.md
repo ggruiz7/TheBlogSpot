@@ -12,4 +12,6 @@ User story - As a creative person and a blogger, I want an open forum where I ca
 Create pull request for large changes ie. branch merges or pushing to main branch
 
 # Deployed
+***Not currently deployed
+
 https://blog-spot.herokuapp.com/
