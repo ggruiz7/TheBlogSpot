@@ -1,3 +1,5 @@
+const { schema } = require("./blog");
+
 const UserSchema = new Schema({
     userName: {
         type: String,
@@ -8,8 +10,19 @@ const UserSchema = new Schema({
         type: String,
         require: true
     },
-    frinds: []
-});
+    frinds: [{
+        type:schema.types.objectId,
+        ref:'User'
+    }]
+    
+},
+{
+    toJSON:{
+        virtuals:true,
+    },
+    id:false
+}
+);
 //create the User mofel using the UserSchema
 const User = model('User', UserSchema);
 //export the User model

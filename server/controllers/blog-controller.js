@@ -12,7 +12,7 @@ const BlogController = {
             });
     },
     //get one blog by id 
-    getblogbyId({ params }, res) {
+    getBlogById({ params }, res) {
         Blog.findOne({ _id: params.id })
             .then(dbBlogData => {
                 //if no blog found , send 404

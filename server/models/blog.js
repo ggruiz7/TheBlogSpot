@@ -15,12 +15,6 @@ const BlogSchema = new Schema({
         default: Date.now
 
     },
-    {
-        toJSON: {
-            virtuals: true,
-        },
-        id: false
-    }
 });
 const Blog = model('Blog', BlogSchema);
 module.exports = Blog;
