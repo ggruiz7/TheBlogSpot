@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "first post",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique assumenda dolore odit perspiciatis labore quibusdam reiciendis dignissimos numquam enim rem aut veritatis maiores praesentium, reprehenderit exercitationem! Similique eius aperiam nisi cum veritatis accusantium vitae sint necessitatibus error minus fugiat earum eveniet nostrum expedita unde deserunt blanditiis dicta, enim omnis itaque.",
+      "author": "bat",
+      "id": 1
+    },
+    {
+      "title": "next post",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique assumenda dolore odit perspiciatis labore quibusdam reiciendis dignissimos numquam enim rem aut veritatis maiores praesentium, reprehenderit exercitationem! Similique eius aperiam nisi cum veritatis accusantium vitae sint necessitatibus error minus fugiat earum eveniet nostrum expedita unde deserunt blanditiis dicta, enim omnis itaque.",
+      "author": "nat",
+      "id": 2
+    }
+  ]
+}
